@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\bin\Debug\net6.0\3_LongestString.exe
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\bin\Debug\net6.0\3_LongestString.deps.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\bin\Debug\net6.0\3_LongestString.runtimeconfig.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\bin\Debug\net6.0\3_LongestString.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\bin\Debug\net6.0\3_LongestString.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\obj\Debug\net6.0\3_LongestString.csproj.AssemblyReference.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\obj\Debug\net6.0\3_LongestString.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\obj\Debug\net6.0\3_LongestString.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\obj\Debug\net6.0\3_LongestString.AssemblyInfo.cs
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\obj\Debug\net6.0\3_LongestString.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\obj\Debug\net6.0\3_LongestString.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\obj\Debug\net6.0\refint\3_LongestString.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\obj\Debug\net6.0\3_LongestString.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\obj\Debug\net6.0\3_LongestString.genruntimeconfig.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\3_LongestString\obj\Debug\net6.0\ref\3_LongestString.dll

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "gd6O8XdctLg8hjSl9UVmbFmQIcDwRlErq9d0Xllvnnk=",
+  "Source": "EmpManage",
+  "BasePath": "_content/EmpManage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmpManage\\wwwroot",
+      "Source": "EmpManage",
+      "ContentRoot": "E:\\web\\ASP_NET\\ASP.NET_CORE\\Level2\\Projects\\EmpManage\\EmpManage\\wwwroot\\",
+      "BasePath": "_content/EmpManage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

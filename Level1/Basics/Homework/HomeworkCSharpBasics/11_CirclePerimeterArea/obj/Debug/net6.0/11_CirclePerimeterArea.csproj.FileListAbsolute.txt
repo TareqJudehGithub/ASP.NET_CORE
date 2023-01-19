@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\bin\Debug\net6.0\11_CirclePerimeterArea.exe
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\bin\Debug\net6.0\11_CirclePerimeterArea.deps.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\bin\Debug\net6.0\11_CirclePerimeterArea.runtimeconfig.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\bin\Debug\net6.0\11_CirclePerimeterArea.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\bin\Debug\net6.0\11_CirclePerimeterArea.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\obj\Debug\net6.0\11_CirclePerimeterArea.csproj.AssemblyReference.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\obj\Debug\net6.0\11_CirclePerimeterArea.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\obj\Debug\net6.0\11_CirclePerimeterArea.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\obj\Debug\net6.0\11_CirclePerimeterArea.AssemblyInfo.cs
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\obj\Debug\net6.0\11_CirclePerimeterArea.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\obj\Debug\net6.0\11_CirclePerimeterArea.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\obj\Debug\net6.0\refint\11_CirclePerimeterArea.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\obj\Debug\net6.0\11_CirclePerimeterArea.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\obj\Debug\net6.0\11_CirclePerimeterArea.genruntimeconfig.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\11_CirclePerimeterArea\obj\Debug\net6.0\ref\11_CirclePerimeterArea.dll

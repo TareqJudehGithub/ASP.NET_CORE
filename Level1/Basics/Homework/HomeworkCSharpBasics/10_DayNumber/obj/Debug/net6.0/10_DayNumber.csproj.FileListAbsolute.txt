@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\bin\Debug\net6.0\10_DayNumber.exe
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\bin\Debug\net6.0\10_DayNumber.deps.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\bin\Debug\net6.0\10_DayNumber.runtimeconfig.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\bin\Debug\net6.0\10_DayNumber.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\bin\Debug\net6.0\10_DayNumber.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\obj\Debug\net6.0\10_DayNumber.csproj.AssemblyReference.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\obj\Debug\net6.0\10_DayNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\obj\Debug\net6.0\10_DayNumber.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\obj\Debug\net6.0\10_DayNumber.AssemblyInfo.cs
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\obj\Debug\net6.0\10_DayNumber.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\obj\Debug\net6.0\10_DayNumber.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\obj\Debug\net6.0\refint\10_DayNumber.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\obj\Debug\net6.0\10_DayNumber.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\obj\Debug\net6.0\10_DayNumber.genruntimeconfig.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\10_DayNumber\obj\Debug\net6.0\ref\10_DayNumber.dll

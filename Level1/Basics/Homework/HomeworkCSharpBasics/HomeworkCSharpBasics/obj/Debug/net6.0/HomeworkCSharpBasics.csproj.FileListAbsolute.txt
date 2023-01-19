@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\bin\Debug\net6.0\HomeworkCSharpBasics.exe
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\bin\Debug\net6.0\HomeworkCSharpBasics.deps.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\bin\Debug\net6.0\HomeworkCSharpBasics.runtimeconfig.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\bin\Debug\net6.0\HomeworkCSharpBasics.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\bin\Debug\net6.0\HomeworkCSharpBasics.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\obj\Debug\net6.0\HomeworkCSharpBasics.csproj.AssemblyReference.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\obj\Debug\net6.0\HomeworkCSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\obj\Debug\net6.0\HomeworkCSharpBasics.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\obj\Debug\net6.0\HomeworkCSharpBasics.AssemblyInfo.cs
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\obj\Debug\net6.0\HomeworkCSharpBasics.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\obj\Debug\net6.0\HomeworkCSharpBasics.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\obj\Debug\net6.0\refint\HomeworkCSharpBasics.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\obj\Debug\net6.0\HomeworkCSharpBasics.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\obj\Debug\net6.0\HomeworkCSharpBasics.genruntimeconfig.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\HomeworkCSharpBasics\obj\Debug\net6.0\ref\HomeworkCSharpBasics.dll

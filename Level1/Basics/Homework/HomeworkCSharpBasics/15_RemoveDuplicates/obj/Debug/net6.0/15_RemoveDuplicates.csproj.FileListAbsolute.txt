@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\bin\Debug\net6.0\15_RemoveDuplicates.exe
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\bin\Debug\net6.0\15_RemoveDuplicates.deps.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\bin\Debug\net6.0\15_RemoveDuplicates.runtimeconfig.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\bin\Debug\net6.0\15_RemoveDuplicates.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\bin\Debug\net6.0\15_RemoveDuplicates.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\obj\Debug\net6.0\15_RemoveDuplicates.csproj.AssemblyReference.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\obj\Debug\net6.0\15_RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\obj\Debug\net6.0\15_RemoveDuplicates.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\obj\Debug\net6.0\15_RemoveDuplicates.AssemblyInfo.cs
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\obj\Debug\net6.0\15_RemoveDuplicates.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\obj\Debug\net6.0\15_RemoveDuplicates.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\obj\Debug\net6.0\refint\15_RemoveDuplicates.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\obj\Debug\net6.0\15_RemoveDuplicates.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\obj\Debug\net6.0\15_RemoveDuplicates.genruntimeconfig.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\15_RemoveDuplicates\obj\Debug\net6.0\ref\15_RemoveDuplicates.dll

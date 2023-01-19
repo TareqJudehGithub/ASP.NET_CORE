@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\bin\Debug\net6.0\14_LengthOfString.exe
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\bin\Debug\net6.0\14_LengthOfString.deps.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\bin\Debug\net6.0\14_LengthOfString.runtimeconfig.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\bin\Debug\net6.0\14_LengthOfString.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\bin\Debug\net6.0\14_LengthOfString.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\obj\Debug\net6.0\14_LengthOfString.csproj.AssemblyReference.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\obj\Debug\net6.0\14_LengthOfString.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\obj\Debug\net6.0\14_LengthOfString.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\obj\Debug\net6.0\14_LengthOfString.AssemblyInfo.cs
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\obj\Debug\net6.0\14_LengthOfString.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\obj\Debug\net6.0\14_LengthOfString.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\obj\Debug\net6.0\refint\14_LengthOfString.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\obj\Debug\net6.0\14_LengthOfString.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\obj\Debug\net6.0\14_LengthOfString.genruntimeconfig.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\14_LengthOfString\obj\Debug\net6.0\ref\14_LengthOfString.dll

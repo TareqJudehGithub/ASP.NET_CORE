@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\bin\Debug\net6.0\6_Triangle.exe
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\bin\Debug\net6.0\6_Triangle.deps.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\bin\Debug\net6.0\6_Triangle.runtimeconfig.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\bin\Debug\net6.0\6_Triangle.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\bin\Debug\net6.0\6_Triangle.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\obj\Debug\net6.0\6_Triangle.csproj.AssemblyReference.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\obj\Debug\net6.0\6_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\obj\Debug\net6.0\6_Triangle.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\obj\Debug\net6.0\6_Triangle.AssemblyInfo.cs
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\obj\Debug\net6.0\6_Triangle.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\obj\Debug\net6.0\6_Triangle.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\obj\Debug\net6.0\refint\6_Triangle.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\obj\Debug\net6.0\6_Triangle.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\obj\Debug\net6.0\6_Triangle.genruntimeconfig.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\6_Pyramid\obj\Debug\net6.0\ref\6_Triangle.dll

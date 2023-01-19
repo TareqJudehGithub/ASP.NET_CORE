@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\bin\Debug\net6.0\4_CheckForOdd.exe
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\bin\Debug\net6.0\4_CheckForOdd.deps.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\bin\Debug\net6.0\4_CheckForOdd.runtimeconfig.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\bin\Debug\net6.0\4_CheckForOdd.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\bin\Debug\net6.0\4_CheckForOdd.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\obj\Debug\net6.0\4_CheckForOdd.csproj.AssemblyReference.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\obj\Debug\net6.0\4_CheckForOdd.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\obj\Debug\net6.0\4_CheckForOdd.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\obj\Debug\net6.0\4_CheckForOdd.AssemblyInfo.cs
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\obj\Debug\net6.0\4_CheckForOdd.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\obj\Debug\net6.0\4_CheckForOdd.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\obj\Debug\net6.0\refint\4_CheckForOdd.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\obj\Debug\net6.0\4_CheckForOdd.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\obj\Debug\net6.0\4_CheckForOdd.genruntimeconfig.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\4_CheckForOdd\obj\Debug\net6.0\ref\4_CheckForOdd.dll

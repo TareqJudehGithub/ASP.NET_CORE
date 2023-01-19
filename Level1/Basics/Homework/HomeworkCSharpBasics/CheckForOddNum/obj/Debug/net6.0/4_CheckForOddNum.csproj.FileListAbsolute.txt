@@ -1,0 +1,5 @@
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\CheckForOddNum\obj\Debug\net6.0\4_CheckForOddNum.csproj.AssemblyReference.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\CheckForOddNum\obj\Debug\net6.0\4_CheckForOddNum.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\CheckForOddNum\obj\Debug\net6.0\4_CheckForOddNum.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\CheckForOddNum\obj\Debug\net6.0\4_CheckForOddNum.AssemblyInfo.cs
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\CheckForOddNum\obj\Debug\net6.0\4_CheckForOddNum.csproj.CoreCompileInputs.cache

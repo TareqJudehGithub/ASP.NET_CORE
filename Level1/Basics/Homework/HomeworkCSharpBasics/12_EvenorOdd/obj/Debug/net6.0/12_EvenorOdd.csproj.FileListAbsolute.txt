@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\bin\Debug\net6.0\12_EvenorOdd.exe
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\bin\Debug\net6.0\12_EvenorOdd.deps.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\bin\Debug\net6.0\12_EvenorOdd.runtimeconfig.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\bin\Debug\net6.0\12_EvenorOdd.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\bin\Debug\net6.0\12_EvenorOdd.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\obj\Debug\net6.0\12_EvenorOdd.csproj.AssemblyReference.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\obj\Debug\net6.0\12_EvenorOdd.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\obj\Debug\net6.0\12_EvenorOdd.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\obj\Debug\net6.0\12_EvenorOdd.AssemblyInfo.cs
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\obj\Debug\net6.0\12_EvenorOdd.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\obj\Debug\net6.0\12_EvenorOdd.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\obj\Debug\net6.0\refint\12_EvenorOdd.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\obj\Debug\net6.0\12_EvenorOdd.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\obj\Debug\net6.0\12_EvenorOdd.genruntimeconfig.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\12_EvenorOdd\obj\Debug\net6.0\ref\12_EvenorOdd.dll

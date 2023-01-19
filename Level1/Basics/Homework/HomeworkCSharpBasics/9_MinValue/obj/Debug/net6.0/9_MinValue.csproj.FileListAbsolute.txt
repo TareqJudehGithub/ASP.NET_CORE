@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\bin\Debug\net6.0\9_MinValue.exe
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\bin\Debug\net6.0\9_MinValue.deps.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\bin\Debug\net6.0\9_MinValue.runtimeconfig.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\bin\Debug\net6.0\9_MinValue.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\bin\Debug\net6.0\9_MinValue.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\obj\Debug\net6.0\9_MinValue.csproj.AssemblyReference.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\obj\Debug\net6.0\9_MinValue.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\obj\Debug\net6.0\9_MinValue.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\obj\Debug\net6.0\9_MinValue.AssemblyInfo.cs
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\obj\Debug\net6.0\9_MinValue.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\obj\Debug\net6.0\9_MinValue.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\obj\Debug\net6.0\refint\9_MinValue.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\obj\Debug\net6.0\9_MinValue.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\obj\Debug\net6.0\9_MinValue.genruntimeconfig.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\9_MinValue\obj\Debug\net6.0\ref\9_MinValue.dll

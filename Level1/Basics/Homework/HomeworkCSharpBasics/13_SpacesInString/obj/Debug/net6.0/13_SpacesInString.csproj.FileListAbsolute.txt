@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\bin\Debug\net6.0\13_SpacesInString.exe
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\bin\Debug\net6.0\13_SpacesInString.deps.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\bin\Debug\net6.0\13_SpacesInString.runtimeconfig.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\bin\Debug\net6.0\13_SpacesInString.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\bin\Debug\net6.0\13_SpacesInString.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\obj\Debug\net6.0\13_SpacesInString.csproj.AssemblyReference.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\obj\Debug\net6.0\13_SpacesInString.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\obj\Debug\net6.0\13_SpacesInString.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\obj\Debug\net6.0\13_SpacesInString.AssemblyInfo.cs
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\obj\Debug\net6.0\13_SpacesInString.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\obj\Debug\net6.0\13_SpacesInString.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\obj\Debug\net6.0\refint\13_SpacesInString.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\obj\Debug\net6.0\13_SpacesInString.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\obj\Debug\net6.0\13_SpacesInString.genruntimeconfig.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\13_SpacesInString\obj\Debug\net6.0\ref\13_SpacesInString.dll

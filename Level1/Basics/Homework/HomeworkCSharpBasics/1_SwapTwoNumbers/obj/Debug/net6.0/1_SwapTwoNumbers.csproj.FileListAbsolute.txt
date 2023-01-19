@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\bin\Debug\net6.0\1_SwapTwoNumbers.exe
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\bin\Debug\net6.0\1_SwapTwoNumbers.deps.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\bin\Debug\net6.0\1_SwapTwoNumbers.runtimeconfig.json
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\bin\Debug\net6.0\1_SwapTwoNumbers.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\bin\Debug\net6.0\1_SwapTwoNumbers.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\obj\Debug\net6.0\1_SwapTwoNumbers.csproj.AssemblyReference.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\obj\Debug\net6.0\1_SwapTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\obj\Debug\net6.0\1_SwapTwoNumbers.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\obj\Debug\net6.0\1_SwapTwoNumbers.AssemblyInfo.cs
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\obj\Debug\net6.0\1_SwapTwoNumbers.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\obj\Debug\net6.0\1_SwapTwoNumbers.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\obj\Debug\net6.0\refint\1_SwapTwoNumbers.dll
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\obj\Debug\net6.0\1_SwapTwoNumbers.pdb
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\obj\Debug\net6.0\1_SwapTwoNumbers.genruntimeconfig.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level1\Basics\Homework\HomeworkCSharpBasics\1_SwapTwoNumbers\obj\Debug\net6.0\ref\1_SwapTwoNumbers.dll
