@@ -15,3 +15,19 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = E:\web\ASP_NET\ASP.NET_CORE\Level2\Projects\EmpManage\EmpManage
 build_property._RazorSourceGeneratorDebug = 
+
+[E:/web/ASP_NET/ASP.NET_CORE/Level2/Projects/EmpManage/EmpManage/RootLvlView/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Um9vdEx2bFZpZXdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/web/ASP_NET/ASP.NET_CORE/Level2/Projects/EmpManage/EmpManage/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/web/ASP_NET/ASP.NET_CORE/Level2/Projects/EmpManage/EmpManage/Views/Home/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/web/ASP_NET/ASP.NET_CORE/Level2/Projects/EmpManage/EmpManage/Views/MyViews/MyViewsTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlWaWV3c1xNeVZpZXdzVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -12,6 +12,8 @@ E:\web\ASP_NET\ASP.NET_CORE\Level2\Projects\EmpManage\EmpManage\obj\Debug\net7.0
 E:\web\ASP_NET\ASP.NET_CORE\Level2\Projects\EmpManage\EmpManage\obj\Debug\net7.0\EmpManage.AssemblyInfo.cs
 E:\web\ASP_NET\ASP.NET_CORE\Level2\Projects\EmpManage\EmpManage\obj\Debug\net7.0\EmpManage.csproj.CoreCompileInputs.cache
 E:\web\ASP_NET\ASP.NET_CORE\Level2\Projects\EmpManage\EmpManage\obj\Debug\net7.0\EmpManage.MvcApplicationPartsAssemblyInfo.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level2\Projects\EmpManage\EmpManage\obj\Debug\net7.0\EmpManage.RazorAssemblyInfo.cache
+E:\web\ASP_NET\ASP.NET_CORE\Level2\Projects\EmpManage\EmpManage\obj\Debug\net7.0\EmpManage.RazorAssemblyInfo.cs
 E:\web\ASP_NET\ASP.NET_CORE\Level2\Projects\EmpManage\EmpManage\obj\Debug\net7.0\staticwebassets\msbuild.EmpManage.Microsoft.AspNetCore.StaticWebAssets.props
 E:\web\ASP_NET\ASP.NET_CORE\Level2\Projects\EmpManage\EmpManage\obj\Debug\net7.0\staticwebassets\msbuild.build.EmpManage.props
 E:\web\ASP_NET\ASP.NET_CORE\Level2\Projects\EmpManage\EmpManage\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmpManage.props

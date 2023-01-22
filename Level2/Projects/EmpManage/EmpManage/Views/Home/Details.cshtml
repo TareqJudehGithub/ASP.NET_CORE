@@ -1,0 +1,47 @@
+﻿    @model EmpManage.Models.Employee;    
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    @{
+        //<title>@ViewData["PageTitle"]</title>
+ <!--ViewData View-->
+    }
+
+    <title>@ViewBag.PageTitle</title>  <!--ViewData View-->
+</head>
+<body>
+    <h1>Details View</h1>
+    @{
+        // ViewData View
+        // cast new var employee as an Employee obj
+       // var employee = ViewData["Employee"] as EmpManage.Models.Employee;
+    }
+    @*<h4>Employee Details:</h4>
+        <p>@employee.Id</p>
+        <p>@employee.Name</p>
+        <p>@employee.Department</p>
+        <p>@employee.Email</p>*@
+
+    @{
+        // ViewBag View
+    }
+
+    @*<h4>Employee Details:</h4>
+        <p>@Modelemployee.Id</p>
+        <p>@employee.Name</p>
+        <p>@employee.Department</p>
+        <p>@employee.Email</p>*@
+
+    @{
+        // Strongly Typed View
+    }
+
+
+    <h4>Employee Details:</h4>
+    <p>@Model.Id</p>
+    <p>@Model.Name</p>
+    <p>@Model.Department</p>
+    <p>@Model.Email</p>
+
+</body>
+</html>
