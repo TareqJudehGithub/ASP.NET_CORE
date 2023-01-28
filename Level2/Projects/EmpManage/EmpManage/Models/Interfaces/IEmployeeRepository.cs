@@ -3,5 +3,8 @@
     public interface IEmployeeRepository
     {
         Employee GetEmployee(int id);
+
+        // IEnumerable
+        IEnumerable<Employee> GetAllEmployees();
     }
 }

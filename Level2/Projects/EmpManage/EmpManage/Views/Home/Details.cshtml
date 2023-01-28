@@ -1,12 +1,21 @@
-﻿    @model EmpManage.Models.Employee;    
+﻿<!--
+
+// strongly typed
+model EmpManage.Models.Employee;
+-->
+@{
+    // @model EmpManage.ViewModels.HomeDetailsViewModel         without _ViewImports
+}
+
+@model HomeDetailsViewModel
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     @{
         //<title>@ViewData["PageTitle"]</title>
- <!--ViewData View-->
+        <!--ViewData View-->
     }
-
+   
     <title>@ViewBag.PageTitle</title>  <!--ViewData View-->
 </head>
 <body>
@@ -14,7 +23,7 @@
     @{
         // ViewData View
         // cast new var employee as an Employee obj
-       // var employee = ViewData["Employee"] as EmpManage.Models.Employee;
+        // var employee = ViewData["Employee"] as EmpManage.Models.Employee;
     }
     @*<h4>Employee Details:</h4>
         <p>@employee.Id</p>
@@ -36,12 +45,20 @@
         // Strongly Typed View
     }
 
-
-    <h4>Employee Details:</h4>
+    @*<h4>Employee Details:</h4>
     <p>@Model.Id</p>
     <p>@Model.Name</p>
     <p>@Model.Department</p>
-    <p>@Model.Email</p>
+    <p>@Model.Email</p>*@
+
+
+    <!--ViewModel-->
+
+    <h4>Employee Details:</h4>
+    <p>@Model.Employee.Id</p>
+    <p>@Model.Employee.Name</p>
+    <p>@Model.Employee.Department</p>
+    <p>@Model.Employee.Email</p>
 
 </body>
 </html>

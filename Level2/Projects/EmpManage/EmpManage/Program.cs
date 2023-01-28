@@ -23,7 +23,18 @@ if (app.Environment.IsDevelopment())
 
 app.UseStaticFiles(); // enables adding files
 
-app.UseMvcWithDefaultRoute();
+app.UseMvcWithDefaultRoute();  // enables MVC Routing    /port#/home/index
+                               // home  means the HOMEController class in Controllers
+                               // index is the action name in HomeController class
+
+
+app.UseMvc(routes =>
+{
+    routes.MapRoute(
+        name: "Default",
+        template: "{ controller = Home}/{action = Index}"
+        );
+});
 // app.MapGet("/", () => "Hello World!");
 
 

@@ -43,21 +43,37 @@ namespace EmpManage.Controllers
 
         //    var employee = _employeeRepository.GetEmployee(1);
 
-
         //    return View(employee);
         //}
 
 
         // Strongly Typed view
-        public ViewResult Details()
-        {
-            var employee = _employeeRepository.GetEmployee(1);
-            ViewBag.employee = "Employee";
-            ViewBag.PageTitle = "Page tab";
-            return View(employee);
-        }
+        //public ViewResult Details()
+        //{
+        //    var employee = _employeeRepository.GetEmployee(1);
+        //    ViewBag.employee = "Employee";
+        //    ViewBag.PageTitle = "Page tab";
+
+        //    return View(employee);
+        //}
 
 
+        // ViewModels
+        //public ViewResult Details()
+        //{
+        //    HomeDetailsViewModel viewModel = new HomeDetailsViewModel()
+        //    {
+        //        Employee = _employeeRepository.GetEmployee(1),
+        //        PageTitle = "Page Title"
+        //    };
+
+        //    return View(HomeDetailsViewModel);
+        //}
+
+        //public ViewResult Index()
+        //{
+        //    var employees = _employeeRepository
+        //}
 
         //public ViewResult Details()
         //{

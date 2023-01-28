@@ -50,11 +50,16 @@ namespace EmpManage.Models.Implementation
 
             };
         }
-
+         // methods
         public Employee GetEmployee(int id)
         {
             // using LINQ to retrieve data 
             return _employees.FirstOrDefault(e => e.Id == id); //
+        }
+
+        public IEnumerable<Employee> GetAllEmployees()
+        {
+            return _employees;
         }
     }
 }
